@@ -7,6 +7,14 @@
 !  Last Modified: 2016-5-28 12:10:22
 !  coding: utf-8, expires: 15 days
 !  --tw6 filters by xwhyc----5781---------------------------
+
+*$domain=http://pos.baidu.com
+*$domain=http://drmcmm.baidu.com
+*$domain=http://cpro.baidu.com
+*$domain=http://hm.baidu.com
+*$domain=http://pos.baidu.com
+
+
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com|gome.com.cn|ad.alimama.com|www.alimama.com|189.cn|3songshu.com|pili.com.tw|chinahr.com
 @@|http://*&username=400gb&adsid=
 @@|http://*.com/adsafe
